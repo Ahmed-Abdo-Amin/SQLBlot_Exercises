@@ -21,7 +21,7 @@ Manager|Scott K.|1e|9
 Manager|Shirlee M.|1e|3
 Manager|Daria O.|2w|6
 
-## Exercise 9 — Tasks
+## Exercise 10 — Tasks
 1. Find the longest time that an employee has been at the studio
 2. For each role, find the average number of years employed by employees in that role
 3. Find the total number of employee years worked in each building
